@@ -10,6 +10,8 @@ It was also incredibly fun to try out different themes and vibes. Originally, *p
 
 ## AI Usage
 
+*document: https://docs.google.com/document/d/1_kmKEcl_36gKKsvwDBYCmwBM2KZ6D1Rpq4Il34tbA2s/edit?tab=t.0
+
 AI is actually pretty good at generating SVGs for websites. I had asked ChatGPT to generate me a very pop, colorful website banner SVG full of colorful round shapes with no white space.
 
 ```html
